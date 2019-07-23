@@ -1,6 +1,4 @@
-# Basic Unit Test with Jest
-
-Practice writing basic unit tests with Jest.
+# Basic Unit Testing with Jest
 
 ## Practice
 
